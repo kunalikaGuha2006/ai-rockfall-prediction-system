@@ -1,0 +1,33 @@
+.sensor-panel {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  margin-top: 20px;
+}
+
+.sensor-panel h2 {
+  margin-bottom: 15px;
+}
+
+.sensor-panel p {
+  margin: 5px 0;
+}
+
+.risk-high {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.risk-medium {
+  color: orange;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.risk-low {
+  color: #00ff88;
+  font-weight: bold;
+  font-size: 20px;
+}

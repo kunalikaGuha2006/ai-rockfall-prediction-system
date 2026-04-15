@@ -1,0 +1,1001 @@
+NodeID,ZoneName,Elevation_m,Slope_deg,Rainfall_mm_hr,Soil_Stability,Vibration_Level,Risk_Level
+N1,Western Ghats Cliff Route - Zone 1,351,40,20,0.36,High,Low
+N2,Western Ghats Cliff Route - Zone 2,1685,74,10,0.61,Low,Medium
+N3,Aravalli Hills Road - Zone 3,491,32,19,0.55,Low,Low
+N4,Spiti Valley Cliff Road - Zone 4,707,74,31,0.35,High,Medium
+N5,Leh-Ladakh Cliff Route - Zone 5,313,25,49,0.5,Medium,Low
+N6,Sikkim Valley Road - Zone 6,740,48,11,0.26,Low,Low
+N7,Kodaikanal Ghat Road - Zone 7,1004,38,56,0.23,Medium,Medium
+N8,Spiti Valley Cliff Road - Zone 8,555,53,10,0.59,High,Low
+N9,Mussoorie Hill Road - Zone 9,1040,29,50,0.25,High,Medium
+N10,Manali Mountain Road - Zone 10,892,15,59,0.36,Low,Medium
+N11,Ooty Hill Pass - Zone 11,869,63,45,0.78,Low,Medium
+N12,Kodaikanal Ghat Road - Zone 12,1027,31,47,0.39,High,Medium
+N13,Nilgiri Mountain Pass - Zone 13,1547,26,39,0.71,Low,Low
+N14,Tawang Mountain Route - Zone 14,1077,39,45,0.68,Low,Low
+N15,Nainital Lake Hill Road - Zone 15,414,34,57,0.22,Medium,Medium
+N16,Ooty Hill Pass - Zone 16,848,13,18,0.84,High,Low
+N17,Nainital Lake Hill Road - Zone 17,735,68,30,0.82,High,Medium
+N18,Tawang Mountain Route - Zone 18,592,38,13,0.37,High,Low
+N19,Spiti Valley Cliff Road - Zone 19,838,59,42,0.48,Low,Medium
+N20,Sikkim Valley Road - Zone 20,1343,68,10,0.73,Low,Low
+N21,Sikkim Valley Road - Zone 21,1585,25,55,0.68,High,Low
+N22,Nilgiri Mountain Pass - Zone 22,1088,53,43,0.9,High,Low
+N23,Leh-Ladakh Cliff Route - Zone 23,1433,6,48,0.7,High,Low
+N24,Spiti Valley Cliff Road - Zone 24,846,48,12,0.41,Low,Low
+N25,Tawang Mountain Route - Zone 25,306,38,37,0.73,High,Low
+N26,Western Ghats Cliff Route - Zone 26,1580,43,58,0.65,High,Medium
+N27,Shimla Ridge Highway - Zone 27,613,52,53,0.31,High,Medium
+N28,Aravalli Hills Road - Zone 28,1526,46,36,0.21,Medium,Medium
+N29,Uttarakhand Valley Road - Zone 29,790,12,20,0.81,Low,Low
+N30,Nilgiri Mountain Pass - Zone 30,1798,67,57,0.25,High,Medium
+N31,Sikkim Valley Road - Zone 31,562,65,40,0.32,High,Medium
+N32,Mussoorie Hill Road - Zone 32,1166,32,39,0.73,High,Low
+N33,Shimla Ridge Highway - Zone 33,1760,44,30,0.9,High,Low
+N34,Kodaikanal Ghat Road - Zone 34,1197,71,33,0.28,Low,Medium
+N35,Nilgiri Mountain Pass - Zone 35,992,7,42,0.59,High,Low
+N36,Manali Mountain Road - Zone 36,314,14,50,0.64,Low,Low
+N37,Nilgiri Mountain Pass - Zone 37,364,47,9,0.56,Medium,Low
+N38,Gangtok Ridge Road - Zone 38,738,74,13,0.71,High,Medium
+N39,Kinnaur Mountain Highway - Zone 39,1268,36,55,0.53,Medium,Medium
+N40,Shimla Ridge Highway - Zone 40,493,17,47,0.5,Medium,Low
+N41,Munnar Tea Valley Road - Zone 41,1256,11,48,0.66,High,Low
+N42,Western Ghats Cliff Route - Zone 42,424,56,51,0.44,Low,Medium
+N43,Manali Mountain Road - Zone 43,692,29,39,0.51,Medium,Low
+N44,Darjeeling Hill Road - Zone 44,870,64,20,0.81,Low,Low
+N45,Tawang Mountain Route - Zone 45,1427,17,8,0.66,High,Low
+N46,Aravalli Hills Road - Zone 46,491,35,15,0.48,Medium,Low
+N47,Shimla Ridge Highway - Zone 47,1121,12,15,0.47,Medium,Low
+N48,Leh-Ladakh Cliff Route - Zone 48,1231,41,32,0.69,High,Low
+N49,Spiti Valley Cliff Road - Zone 49,1655,67,14,0.33,Low,Medium
+N50,Himalayan Ridge Road - Zone 50,1486,74,8,0.72,Low,Low
+N51,Himalayan Ridge Road - Zone 51,1496,66,37,0.84,High,Medium
+N52,Darjeeling Hill Road - Zone 52,416,70,10,0.8,Low,Low
+N53,Mussoorie Hill Road - Zone 53,439,35,30,0.28,High,Medium
+N54,Manali Mountain Road - Zone 54,1485,10,44,0.26,High,Low
+N55,Kinnaur Mountain Highway - Zone 55,1457,71,25,0.85,Low,Medium
+N56,Nainital Lake Hill Road - Zone 56,788,38,30,0.29,High,Medium
+N57,Uttarakhand Valley Road - Zone 57,1236,45,53,0.86,Low,Low
+N58,Tawang Mountain Route - Zone 58,1572,17,9,0.58,High,Low
+N59,Leh-Ladakh Cliff Route - Zone 59,571,49,9,0.82,Medium,Low
+N60,Uttarakhand Valley Road - Zone 60,623,61,58,0.58,Medium,Medium
+N61,Mussoorie Hill Road - Zone 61,1639,72,5,0.67,High,Low
+N62,Uttarakhand Valley Road - Zone 62,1658,18,13,0.39,Low,Low
+N63,Spiti Valley Cliff Road - Zone 63,618,39,23,0.62,High,Low
+N64,Nainital Lake Hill Road - Zone 64,716,38,37,0.54,Low,Low
+N65,Nilgiri Mountain Pass - Zone 65,1599,59,58,0.39,Low,Medium
+N66,Nainital Lake Hill Road - Zone 66,567,38,15,0.72,High,Low
+N67,Munnar Tea Valley Road - Zone 67,1448,6,12,0.25,High,Low
+N68,Sikkim Valley Road - Zone 68,1417,9,58,0.46,High,Low
+N69,Sikkim Valley Road - Zone 69,1180,21,7,0.42,Low,Low
+N70,Kodaikanal Ghat Road - Zone 70,730,36,47,0.27,High,Medium
+N71,Munnar Tea Valley Road - Zone 71,1571,24,20,0.81,Low,Low
+N72,Munnar Tea Valley Road - Zone 72,350,27,52,0.85,Medium,Low
+N73,Manali Mountain Road - Zone 73,846,25,55,0.69,Medium,Low
+N74,Himalayan Ridge Road - Zone 74,1263,33,17,0.77,Medium,Low
+N75,Kodaikanal Ghat Road - Zone 75,925,34,19,0.22,Low,Low
+N76,Ooty Hill Pass - Zone 76,972,40,60,0.25,Medium,Medium
+N77,Kodaikanal Ghat Road - Zone 77,1613,70,30,0.68,High,Medium
+N78,Nainital Lake Hill Road - Zone 78,356,19,21,0.32,Medium,Low
+N79,Himalayan Ridge Road - Zone 79,522,60,27,0.71,Medium,Low
+N80,Munnar Tea Valley Road - Zone 80,1541,70,12,0.47,High,Medium
+N81,Shimla Ridge Highway - Zone 81,821,10,50,0.51,High,Low
+N82,Spiti Valley Cliff Road - Zone 82,1706,30,28,0.5,High,Low
+N83,Nainital Lake Hill Road - Zone 83,1576,45,47,0.79,High,Low
+N84,Uttarakhand Valley Road - Zone 84,1338,44,47,0.49,Medium,Medium
+N85,Uttarakhand Valley Road - Zone 85,1435,21,17,0.49,Medium,Low
+N86,Darjeeling Hill Road - Zone 86,1560,43,30,0.58,Low,Low
+N87,Uttarakhand Valley Road - Zone 87,887,31,32,0.75,High,Low
+N88,Nainital Lake Hill Road - Zone 88,1252,61,33,0.67,High,Medium
+N89,Gangtok Ridge Road - Zone 89,647,15,23,0.56,High,Low
+N90,Mussoorie Hill Road - Zone 90,986,16,57,0.87,Low,Low
+N91,Uttarakhand Valley Road - Zone 91,760,30,14,0.22,Low,Low
+N92,Gangtok Ridge Road - Zone 92,1551,14,34,0.49,High,Low
+N93,Kinnaur Mountain Highway - Zone 93,698,54,36,0.48,Low,Medium
+N94,Aravalli Hills Road - Zone 94,518,59,19,0.32,High,Medium
+N95,Coorg Forest Hill Road - Zone 95,1251,11,40,0.37,Low,Low
+N96,Tawang Mountain Route - Zone 96,573,64,47,0.57,High,Medium
+N97,Mussoorie Hill Road - Zone 97,949,61,44,0.77,High,Medium
+N98,Munnar Tea Valley Road - Zone 98,1422,62,15,0.72,Medium,Low
+N99,Tawang Mountain Route - Zone 99,830,36,58,0.65,High,Medium
+N100,Gangtok Ridge Road - Zone 100,1583,35,22,0.51,High,Low
+N101,Uttarakhand Valley Road - Zone 101,780,39,26,0.42,High,Low
+N102,Nilgiri Mountain Pass - Zone 102,583,24,19,0.47,Low,Low
+N103,Shimla Ridge Highway - Zone 103,431,58,31,0.43,Medium,Medium
+N104,Munnar Tea Valley Road - Zone 104,427,31,58,0.49,High,Medium
+N105,Aravalli Hills Road - Zone 105,1479,53,35,0.2,Medium,Medium
+N106,Uttarakhand Valley Road - Zone 106,1098,58,39,0.72,High,Medium
+N107,Mussoorie Hill Road - Zone 107,751,67,19,0.39,Medium,Medium
+N108,Aravalli Hills Road - Zone 108,1096,48,47,0.68,Medium,Medium
+N109,Darjeeling Hill Road - Zone 109,1257,21,44,0.57,Medium,Low
+N110,Kinnaur Mountain Highway - Zone 110,1455,8,10,0.65,Low,Low
+N111,Tawang Mountain Route - Zone 111,672,11,21,0.47,Low,Low
+N112,Tawang Mountain Route - Zone 112,969,48,53,0.82,Medium,Medium
+N113,Munnar Tea Valley Road - Zone 113,816,15,35,0.21,High,Low
+N114,Himalayan Ridge Road - Zone 114,1016,33,46,0.25,High,Medium
+N115,Himalayan Ridge Road - Zone 115,363,36,17,0.79,High,Low
+N116,Sikkim Valley Road - Zone 116,788,21,35,0.67,High,Low
+N117,Shimla Ridge Highway - Zone 117,1252,37,54,0.46,High,Medium
+N118,Mussoorie Hill Road - Zone 118,1771,19,54,0.77,Medium,Low
+N119,Western Ghats Cliff Route - Zone 119,1485,8,24,0.6,Medium,Low
+N120,Ooty Hill Pass - Zone 120,1764,30,9,0.61,High,Low
+N121,Manali Mountain Road - Zone 121,508,43,59,0.68,Low,Medium
+N122,Kinnaur Mountain Highway - Zone 122,384,49,39,0.5,Medium,Medium
+N123,Nilgiri Mountain Pass - Zone 123,1336,48,5,0.79,Medium,Low
+N124,Western Ghats Cliff Route - Zone 124,1187,51,45,0.82,Medium,Low
+N125,Sikkim Valley Road - Zone 125,1191,27,51,0.57,High,Low
+N126,Leh-Ladakh Cliff Route - Zone 126,1561,73,54,0.54,Medium,Medium
+N127,Kinnaur Mountain Highway - Zone 127,849,46,59,0.37,Low,Medium
+N128,Leh-Ladakh Cliff Route - Zone 128,1223,36,53,0.53,High,Medium
+N129,Ooty Hill Pass - Zone 129,988,8,36,0.8,Low,Low
+N130,Gangtok Ridge Road - Zone 130,734,50,56,0.38,Medium,Medium
+N131,Mussoorie Hill Road - Zone 131,1736,40,40,0.21,Low,Medium
+N132,Nilgiri Mountain Pass - Zone 132,794,57,36,0.59,Low,Medium
+N133,Gangtok Ridge Road - Zone 133,1622,67,33,0.76,Low,Medium
+N134,Uttarakhand Valley Road - Zone 134,753,56,49,0.37,High,Medium
+N135,Kinnaur Mountain Highway - Zone 135,1055,65,40,0.57,Medium,Medium
+N136,Spiti Valley Cliff Road - Zone 136,977,50,49,0.52,Medium,Medium
+N137,Leh-Ladakh Cliff Route - Zone 137,772,20,51,0.33,Low,Medium
+N138,Spiti Valley Cliff Road - Zone 138,1713,28,17,0.35,Medium,Low
+N139,Leh-Ladakh Cliff Route - Zone 139,1783,72,43,0.4,Low,Medium
+N140,Shimla Ridge Highway - Zone 140,906,34,28,0.33,Low,Low
+N141,Spiti Valley Cliff Road - Zone 141,559,40,7,0.88,High,Low
+N142,Uttarakhand Valley Road - Zone 142,1728,21,45,0.81,Medium,Low
+N143,Western Ghats Cliff Route - Zone 143,325,41,35,0.54,Medium,Low
+N144,Darjeeling Hill Road - Zone 144,405,37,60,0.53,Low,Medium
+N145,Ooty Hill Pass - Zone 145,1307,14,41,0.64,Low,Low
+N146,Sikkim Valley Road - Zone 146,605,43,10,0.9,Low,Low
+N147,Spiti Valley Cliff Road - Zone 147,1152,33,54,0.57,Medium,Medium
+N148,Tawang Mountain Route - Zone 148,908,59,24,0.6,Low,Medium
+N149,Mussoorie Hill Road - Zone 149,503,31,45,0.35,High,Medium
+N150,Nilgiri Mountain Pass - Zone 150,621,35,16,0.59,Low,Low
+N151,Aravalli Hills Road - Zone 151,1136,62,49,0.62,Medium,Medium
+N152,Himalayan Ridge Road - Zone 152,774,41,50,0.4,Medium,Medium
+N153,Nilgiri Mountain Pass - Zone 153,1707,34,21,0.75,High,Low
+N154,Kinnaur Mountain Highway - Zone 154,1654,30,32,0.28,Low,Low
+N155,Sikkim Valley Road - Zone 155,844,23,9,0.24,Medium,Low
+N156,Mussoorie Hill Road - Zone 156,1465,41,33,0.29,High,Medium
+N157,Uttarakhand Valley Road - Zone 157,1733,56,22,0.55,Medium,Medium
+N158,Tawang Mountain Route - Zone 158,464,10,32,0.71,High,Low
+N159,Leh-Ladakh Cliff Route - Zone 159,352,16,19,0.87,High,Low
+N160,Kinnaur Mountain Highway - Zone 160,342,39,41,0.23,Low,Medium
+N161,Gangtok Ridge Road - Zone 161,1362,61,22,0.33,High,Medium
+N162,Munnar Tea Valley Road - Zone 162,1600,67,10,0.53,Medium,Medium
+N163,Nainital Lake Hill Road - Zone 163,957,18,59,0.31,Medium,Medium
+N164,Gangtok Ridge Road - Zone 164,890,56,57,0.73,Low,Medium
+N165,Tawang Mountain Route - Zone 165,480,45,21,0.43,Medium,Low
+N166,Coorg Forest Hill Road - Zone 166,302,74,34,0.49,Low,Medium
+N167,Coorg Forest Hill Road - Zone 167,1040,68,45,0.51,Low,Medium
+N168,Shimla Ridge Highway - Zone 168,846,75,13,0.85,Medium,Low
+N169,Gangtok Ridge Road - Zone 169,548,8,45,0.63,Low,Low
+N170,Darjeeling Hill Road - Zone 170,936,75,5,0.59,Low,Medium
+N171,Manali Mountain Road - Zone 171,532,64,12,0.65,Low,Low
+N172,Gangtok Ridge Road - Zone 172,1767,42,37,0.69,Medium,Low
+N173,Gangtok Ridge Road - Zone 173,1267,36,34,0.59,Medium,Low
+N174,Shimla Ridge Highway - Zone 174,1527,70,52,0.82,Low,Medium
+N175,Leh-Ladakh Cliff Route - Zone 175,1149,48,55,0.56,Low,Medium
+N176,Uttarakhand Valley Road - Zone 176,1786,43,58,0.61,High,Medium
+N177,Gangtok Ridge Road - Zone 177,604,62,39,0.54,Medium,Medium
+N178,Spiti Valley Cliff Road - Zone 178,1412,53,34,0.85,Low,Low
+N179,Manali Mountain Road - Zone 179,1471,54,19,0.8,Medium,Low
+N180,Himalayan Ridge Road - Zone 180,951,65,50,0.84,Medium,Medium
+N181,Ooty Hill Pass - Zone 181,1659,24,36,0.88,Low,Low
+N182,Coorg Forest Hill Road - Zone 182,1508,47,60,0.27,Medium,Medium
+N183,Western Ghats Cliff Route - Zone 183,1377,63,5,0.71,Medium,Low
+N184,Sikkim Valley Road - Zone 184,453,65,55,0.88,Medium,Medium
+N185,Mussoorie Hill Road - Zone 185,1718,55,46,0.26,Medium,Medium
+N186,Spiti Valley Cliff Road - Zone 186,1078,45,45,0.7,Medium,Medium
+N187,Spiti Valley Cliff Road - Zone 187,373,13,20,0.64,Medium,Low
+N188,Manali Mountain Road - Zone 188,485,60,11,0.73,High,Low
+N189,Western Ghats Cliff Route - Zone 189,1208,26,49,0.41,Low,Medium
+N190,Himalayan Ridge Road - Zone 190,964,12,23,0.45,Medium,Low
+N191,Sikkim Valley Road - Zone 191,800,72,31,0.6,Low,Medium
+N192,Darjeeling Hill Road - Zone 192,658,15,44,0.81,High,Low
+N193,Manali Mountain Road - Zone 193,1319,23,19,0.52,Medium,Low
+N194,Tawang Mountain Route - Zone 194,822,6,56,0.53,Medium,Low
+N195,Spiti Valley Cliff Road - Zone 195,623,14,33,0.86,High,Low
+N196,Uttarakhand Valley Road - Zone 196,1608,59,49,0.38,Medium,Medium
+N197,Shimla Ridge Highway - Zone 197,1087,66,11,0.37,High,Medium
+N198,Kodaikanal Ghat Road - Zone 198,1477,42,49,0.41,High,Medium
+N199,Ooty Hill Pass - Zone 199,862,6,41,0.81,High,Low
+N200,Himalayan Ridge Road - Zone 200,1541,68,58,0.83,Medium,Medium
+N201,Manali Mountain Road - Zone 201,1543,50,19,0.65,High,Low
+N202,Leh-Ladakh Cliff Route - Zone 202,1688,22,45,0.27,High,Medium
+N203,Himalayan Ridge Road - Zone 203,932,61,7,0.61,High,Low
+N204,Sikkim Valley Road - Zone 204,484,42,25,0.72,Low,Low
+N205,Shimla Ridge Highway - Zone 205,570,74,28,0.57,Medium,Medium
+N206,Darjeeling Hill Road - Zone 206,826,66,56,0.41,Medium,Medium
+N207,Western Ghats Cliff Route - Zone 207,1259,14,14,0.73,Low,Low
+N208,Ooty Hill Pass - Zone 208,1441,51,10,0.75,Low,Low
+N209,Leh-Ladakh Cliff Route - Zone 209,1398,20,34,0.46,High,Low
+N210,Leh-Ladakh Cliff Route - Zone 210,1497,53,57,0.65,Medium,Medium
+N211,Western Ghats Cliff Route - Zone 211,1682,34,35,0.22,High,Medium
+N212,Nainital Lake Hill Road - Zone 212,1549,33,46,0.24,Medium,Medium
+N213,Uttarakhand Valley Road - Zone 213,1629,57,12,0.3,Low,Medium
+N214,Uttarakhand Valley Road - Zone 214,1308,19,11,0.36,High,Low
+N215,Sikkim Valley Road - Zone 215,1095,63,28,0.67,High,Medium
+N216,Spiti Valley Cliff Road - Zone 216,1158,24,31,0.66,Medium,Low
+N217,Mussoorie Hill Road - Zone 217,1135,40,7,0.68,Low,Low
+N218,Tawang Mountain Route - Zone 218,1210,35,59,0.45,High,Medium
+N219,Kodaikanal Ghat Road - Zone 219,1415,50,8,0.48,Low,Low
+N220,Western Ghats Cliff Route - Zone 220,1231,16,47,0.35,High,Low
+N221,Mussoorie Hill Road - Zone 221,343,11,55,0.43,Low,Low
+N222,Kinnaur Mountain Highway - Zone 222,720,13,58,0.74,Low,Low
+N223,Kinnaur Mountain Highway - Zone 223,742,34,26,0.74,High,Low
+N224,Aravalli Hills Road - Zone 224,867,23,13,0.58,Low,Low
+N225,Western Ghats Cliff Route - Zone 225,1653,8,13,0.21,Low,Low
+N226,Kinnaur Mountain Highway - Zone 226,963,7,16,0.39,Low,Low
+N227,Munnar Tea Valley Road - Zone 227,1377,19,52,0.24,Medium,Medium
+N228,Kodaikanal Ghat Road - Zone 228,1351,18,33,0.55,High,Low
+N229,Himalayan Ridge Road - Zone 229,1789,71,24,0.52,Low,Medium
+N230,Himalayan Ridge Road - Zone 230,1280,56,32,0.68,Medium,Medium
+N231,Tawang Mountain Route - Zone 231,450,15,25,0.63,Low,Low
+N232,Sikkim Valley Road - Zone 232,863,75,50,0.43,High,Medium
+N233,Coorg Forest Hill Road - Zone 233,903,63,37,0.62,Low,Medium
+N234,Western Ghats Cliff Route - Zone 234,1640,75,51,0.81,Medium,Medium
+N235,Tawang Mountain Route - Zone 235,767,57,26,0.78,Medium,Low
+N236,Munnar Tea Valley Road - Zone 236,1794,17,25,0.5,High,Low
+N237,Leh-Ladakh Cliff Route - Zone 237,1066,24,48,0.85,Low,Low
+N238,Nilgiri Mountain Pass - Zone 238,474,16,32,0.27,High,Low
+N239,Kodaikanal Ghat Road - Zone 239,566,12,42,0.87,High,Low
+N240,Nainital Lake Hill Road - Zone 240,1672,20,31,0.45,High,Low
+N241,Munnar Tea Valley Road - Zone 241,1776,11,23,0.62,Medium,Low
+N242,Western Ghats Cliff Route - Zone 242,1483,69,18,0.31,Medium,Medium
+N243,Manali Mountain Road - Zone 243,521,49,59,0.59,Low,Medium
+N244,Leh-Ladakh Cliff Route - Zone 244,1475,33,56,0.5,High,Medium
+N245,Mussoorie Hill Road - Zone 245,1556,8,43,0.85,High,Low
+N246,Leh-Ladakh Cliff Route - Zone 246,359,28,22,0.69,Medium,Low
+N247,Nainital Lake Hill Road - Zone 247,1018,5,16,0.81,High,Low
+N248,Ooty Hill Pass - Zone 248,442,23,52,0.64,Low,Low
+N249,Nilgiri Mountain Pass - Zone 249,1386,32,29,0.49,Medium,Low
+N250,Darjeeling Hill Road - Zone 250,1057,44,51,0.43,High,Medium
+N251,Mussoorie Hill Road - Zone 251,473,11,14,0.31,High,Low
+N252,Himalayan Ridge Road - Zone 252,1680,15,22,0.51,Medium,Low
+N253,Gangtok Ridge Road - Zone 253,1543,61,31,0.39,High,Medium
+N254,Western Ghats Cliff Route - Zone 254,1006,60,12,0.4,High,Medium
+N255,Kinnaur Mountain Highway - Zone 255,1296,72,47,0.42,Low,Medium
+N256,Ooty Hill Pass - Zone 256,1527,12,5,0.34,Low,Low
+N257,Sikkim Valley Road - Zone 257,823,42,25,0.28,Medium,Medium
+N258,Munnar Tea Valley Road - Zone 258,659,21,29,0.57,Low,Low
+N259,Coorg Forest Hill Road - Zone 259,1444,50,9,0.48,High,Low
+N260,Himalayan Ridge Road - Zone 260,1193,7,34,0.84,Medium,Low
+N261,Kinnaur Mountain Highway - Zone 261,1179,56,50,0.65,Medium,Medium
+N262,Western Ghats Cliff Route - Zone 262,1129,7,25,0.32,High,Low
+N263,Tawang Mountain Route - Zone 263,1712,51,10,0.51,Low,Low
+N264,Manali Mountain Road - Zone 264,1192,56,38,0.26,Medium,Medium
+N265,Nainital Lake Hill Road - Zone 265,753,47,54,0.32,High,Medium
+N266,Western Ghats Cliff Route - Zone 266,1386,70,17,0.83,Medium,Low
+N267,Kodaikanal Ghat Road - Zone 267,1789,23,20,0.27,Medium,Low
+N268,Shimla Ridge Highway - Zone 268,655,24,53,0.73,Low,Low
+N269,Darjeeling Hill Road - Zone 269,1586,68,34,0.73,High,Medium
+N270,Tawang Mountain Route - Zone 270,1694,46,60,0.88,Medium,Medium
+N271,Sikkim Valley Road - Zone 271,1200,13,35,0.51,Medium,Low
+N272,Leh-Ladakh Cliff Route - Zone 272,1511,12,27,0.56,Medium,Low
+N273,Tawang Mountain Route - Zone 273,1225,9,8,0.46,Medium,Low
+N274,Nilgiri Mountain Pass - Zone 274,1620,16,44,0.62,Medium,Low
+N275,Tawang Mountain Route - Zone 275,1488,75,55,0.72,Low,Medium
+N276,Tawang Mountain Route - Zone 276,1470,29,25,0.62,High,Low
+N277,Sikkim Valley Road - Zone 277,426,62,11,0.77,Medium,Low
+N278,Nilgiri Mountain Pass - Zone 278,1333,27,7,0.37,Medium,Low
+N279,Tawang Mountain Route - Zone 279,1373,71,44,0.31,Medium,Medium
+N280,Uttarakhand Valley Road - Zone 280,1093,57,54,0.44,High,Medium
+N281,Himalayan Ridge Road - Zone 281,1592,47,9,0.43,High,Low
+N282,Ooty Hill Pass - Zone 282,881,37,51,0.8,High,Low
+N283,Sikkim Valley Road - Zone 283,982,15,42,0.66,Medium,Low
+N284,Uttarakhand Valley Road - Zone 284,1643,55,13,0.62,Low,Low
+N285,Uttarakhand Valley Road - Zone 285,1444,53,46,0.75,Low,Medium
+N286,Coorg Forest Hill Road - Zone 286,491,59,37,0.45,Medium,Medium
+N287,Uttarakhand Valley Road - Zone 287,669,32,26,0.86,Medium,Low
+N288,Shimla Ridge Highway - Zone 288,763,22,14,0.25,Low,Low
+N289,Coorg Forest Hill Road - Zone 289,1405,72,7,0.66,High,Low
+N290,Sikkim Valley Road - Zone 290,1523,53,14,0.31,High,Medium
+N291,Mussoorie Hill Road - Zone 291,639,61,7,0.49,High,Low
+N292,Manali Mountain Road - Zone 292,1209,41,53,0.72,Medium,Medium
+N293,Manali Mountain Road - Zone 293,1393,35,24,0.88,Medium,Low
+N294,Shimla Ridge Highway - Zone 294,1053,61,34,0.74,Medium,Medium
+N295,Coorg Forest Hill Road - Zone 295,1380,58,15,0.77,High,Low
+N296,Sikkim Valley Road - Zone 296,812,11,46,0.54,Medium,Low
+N297,Spiti Valley Cliff Road - Zone 297,510,71,59,0.29,Low,Medium
+N298,Darjeeling Hill Road - Zone 298,858,62,37,0.3,Medium,Medium
+N299,Nilgiri Mountain Pass - Zone 299,754,62,27,0.85,Medium,Low
+N300,Himalayan Ridge Road - Zone 300,1111,69,28,0.37,Low,Medium
+N301,Kodaikanal Ghat Road - Zone 301,759,8,25,0.85,High,Low
+N302,Nainital Lake Hill Road - Zone 302,599,22,7,0.4,Medium,Low
+N303,Sikkim Valley Road - Zone 303,1744,65,33,0.63,Low,Medium
+N304,Aravalli Hills Road - Zone 304,824,32,58,0.3,High,Medium
+N305,Mussoorie Hill Road - Zone 305,1380,59,12,0.74,Low,Low
+N306,Uttarakhand Valley Road - Zone 306,549,11,20,0.49,High,Low
+N307,Tawang Mountain Route - Zone 307,428,19,58,0.83,High,Low
+N308,Spiti Valley Cliff Road - Zone 308,333,70,41,0.37,Low,Medium
+N309,Uttarakhand Valley Road - Zone 309,1179,5,44,0.45,High,Low
+N310,Munnar Tea Valley Road - Zone 310,683,15,38,0.88,Low,Low
+N311,Coorg Forest Hill Road - Zone 311,1414,69,55,0.89,High,Medium
+N312,Aravalli Hills Road - Zone 312,1099,65,7,0.64,Medium,Low
+N313,Leh-Ladakh Cliff Route - Zone 313,333,50,55,0.25,Low,Medium
+N314,Western Ghats Cliff Route - Zone 314,1491,47,13,0.23,High,Medium
+N315,Nainital Lake Hill Road - Zone 315,1616,27,58,0.75,Medium,Low
+N316,Gangtok Ridge Road - Zone 316,1593,28,56,0.29,High,Medium
+N317,Tawang Mountain Route - Zone 317,375,42,17,0.23,Low,Medium
+N318,Himalayan Ridge Road - Zone 318,946,44,37,0.48,High,Medium
+N319,Gangtok Ridge Road - Zone 319,818,9,53,0.65,Medium,Low
+N320,Kodaikanal Ghat Road - Zone 320,397,47,22,0.29,Medium,Medium
+N321,Munnar Tea Valley Road - Zone 321,1119,61,29,0.44,Low,Medium
+N322,Gangtok Ridge Road - Zone 322,1717,68,28,0.85,High,Medium
+N323,Leh-Ladakh Cliff Route - Zone 323,469,59,10,0.5,Low,Low
+N324,Spiti Valley Cliff Road - Zone 324,901,46,11,0.26,High,Low
+N325,Uttarakhand Valley Road - Zone 325,927,62,43,0.7,Low,Medium
+N326,Tawang Mountain Route - Zone 326,1019,62,7,0.71,Medium,Low
+N327,Mussoorie Hill Road - Zone 327,1190,40,45,0.89,Low,Low
+N328,Nilgiri Mountain Pass - Zone 328,1674,56,28,0.56,High,Medium
+N329,Darjeeling Hill Road - Zone 329,363,23,59,0.63,Medium,Low
+N330,Himalayan Ridge Road - Zone 330,558,13,20,0.74,Medium,Low
+N331,Kodaikanal Ghat Road - Zone 331,1084,9,43,0.31,Medium,Low
+N332,Kodaikanal Ghat Road - Zone 332,1061,61,53,0.25,Low,Medium
+N333,Coorg Forest Hill Road - Zone 333,1051,55,25,0.65,Low,Low
+N334,Western Ghats Cliff Route - Zone 334,353,28,36,0.56,High,Low
+N335,Western Ghats Cliff Route - Zone 335,836,38,50,0.51,High,Medium
+N336,Uttarakhand Valley Road - Zone 336,1721,67,17,0.29,Low,Medium
+N337,Tawang Mountain Route - Zone 337,653,61,10,0.77,Medium,Low
+N338,Kodaikanal Ghat Road - Zone 338,1753,13,40,0.58,Medium,Low
+N339,Darjeeling Hill Road - Zone 339,1757,27,55,0.45,Low,Medium
+N340,Western Ghats Cliff Route - Zone 340,711,22,20,0.75,Low,Low
+N341,Kodaikanal Ghat Road - Zone 341,1434,52,34,0.76,High,Low
+N342,Sikkim Valley Road - Zone 342,1553,16,9,0.42,High,Low
+N343,Gangtok Ridge Road - Zone 343,1376,57,54,0.49,High,Medium
+N344,Nilgiri Mountain Pass - Zone 344,556,45,46,0.25,Medium,Medium
+N345,Coorg Forest Hill Road - Zone 345,1005,21,58,0.75,High,Low
+N346,Kinnaur Mountain Highway - Zone 346,672,21,32,0.55,Low,Low
+N347,Western Ghats Cliff Route - Zone 347,1361,24,24,0.32,Medium,Low
+N348,Manali Mountain Road - Zone 348,1008,71,23,0.79,Medium,Medium
+N349,Shimla Ridge Highway - Zone 349,1600,75,22,0.29,Medium,Medium
+N350,Mussoorie Hill Road - Zone 350,1392,16,37,0.65,High,Low
+N351,Kinnaur Mountain Highway - Zone 351,615,26,47,0.64,High,Low
+N352,Nainital Lake Hill Road - Zone 352,1454,10,57,0.8,Low,Low
+N353,Himalayan Ridge Road - Zone 353,1613,38,46,0.35,High,Medium
+N354,Munnar Tea Valley Road - Zone 354,1565,8,36,0.82,High,Low
+N355,Uttarakhand Valley Road - Zone 355,1614,43,35,0.37,High,Medium
+N356,Ooty Hill Pass - Zone 356,909,63,9,0.68,Low,Low
+N357,Tawang Mountain Route - Zone 357,1151,66,34,0.34,High,Medium
+N358,Sikkim Valley Road - Zone 358,940,45,51,0.89,Medium,Low
+N359,Ooty Hill Pass - Zone 359,567,52,37,0.59,Medium,Medium
+N360,Manali Mountain Road - Zone 360,1255,20,22,0.51,Low,Low
+N361,Western Ghats Cliff Route - Zone 361,403,42,29,0.8,Medium,Low
+N362,Manali Mountain Road - Zone 362,627,46,41,0.7,Low,Low
+N363,Darjeeling Hill Road - Zone 363,1320,70,34,0.55,Medium,Medium
+N364,Gangtok Ridge Road - Zone 364,347,16,30,0.55,Low,Low
+N365,Shimla Ridge Highway - Zone 365,1494,50,8,0.24,Medium,Medium
+N366,Mussoorie Hill Road - Zone 366,1639,65,23,0.58,Low,Medium
+N367,Munnar Tea Valley Road - Zone 367,574,38,51,0.46,Medium,Medium
+N368,Kodaikanal Ghat Road - Zone 368,392,56,8,0.6,Low,Low
+N369,Kodaikanal Ghat Road - Zone 369,1433,41,9,0.47,Medium,Low
+N370,Spiti Valley Cliff Road - Zone 370,872,20,13,0.88,Medium,Low
+N371,Kodaikanal Ghat Road - Zone 371,994,51,53,0.3,High,Medium
+N372,Coorg Forest Hill Road - Zone 372,1122,69,7,0.23,Low,Medium
+N373,Nainital Lake Hill Road - Zone 373,1270,71,34,0.3,High,Medium
+N374,Sikkim Valley Road - Zone 374,971,45,15,0.48,High,Low
+N375,Uttarakhand Valley Road - Zone 375,1515,48,37,0.78,High,Low
+N376,Gangtok Ridge Road - Zone 376,1751,43,35,0.77,Medium,Low
+N377,Nainital Lake Hill Road - Zone 377,1679,19,31,0.61,High,Low
+N378,Aravalli Hills Road - Zone 378,1522,65,21,0.88,High,Low
+N379,Kinnaur Mountain Highway - Zone 379,766,11,42,0.54,High,Low
+N380,Mussoorie Hill Road - Zone 380,1078,23,57,0.68,Low,Low
+N381,Kinnaur Mountain Highway - Zone 381,1734,19,17,0.21,Medium,Low
+N382,Munnar Tea Valley Road - Zone 382,610,57,49,0.34,High,Medium
+N383,Mussoorie Hill Road - Zone 383,1265,12,50,0.3,Low,Low
+N384,Spiti Valley Cliff Road - Zone 384,965,66,38,0.46,Low,Medium
+N385,Tawang Mountain Route - Zone 385,1391,48,39,0.45,High,Medium
+N386,Leh-Ladakh Cliff Route - Zone 386,1549,66,17,0.87,Medium,Low
+N387,Spiti Valley Cliff Road - Zone 387,911,33,24,0.74,High,Low
+N388,Shimla Ridge Highway - Zone 388,1713,67,25,0.54,High,Medium
+N389,Leh-Ladakh Cliff Route - Zone 389,889,20,41,0.67,Medium,Low
+N390,Ooty Hill Pass - Zone 390,1006,23,23,0.23,High,Low
+N391,Nilgiri Mountain Pass - Zone 391,1009,61,46,0.38,Medium,Medium
+N392,Shimla Ridge Highway - Zone 392,713,73,22,0.85,High,Medium
+N393,Leh-Ladakh Cliff Route - Zone 393,581,18,44,0.72,Low,Low
+N394,Manali Mountain Road - Zone 394,403,72,19,0.65,Low,Medium
+N395,Western Ghats Cliff Route - Zone 395,1146,47,50,0.53,High,Medium
+N396,Sikkim Valley Road - Zone 396,310,75,15,0.48,Medium,Medium
+N397,Gangtok Ridge Road - Zone 397,1632,30,53,0.87,Medium,Low
+N398,Uttarakhand Valley Road - Zone 398,1622,12,54,0.26,High,Medium
+N399,Manali Mountain Road - Zone 399,1395,9,16,0.49,Low,Low
+N400,Himalayan Ridge Road - Zone 400,1113,68,16,0.86,Medium,Low
+N401,Himalayan Ridge Road - Zone 401,318,43,41,0.62,Medium,Low
+N402,Uttarakhand Valley Road - Zone 402,1230,74,38,0.55,Low,Medium
+N403,Coorg Forest Hill Road - Zone 403,1258,39,17,0.77,Medium,Low
+N404,Darjeeling Hill Road - Zone 404,1797,63,46,0.38,Low,Medium
+N405,Aravalli Hills Road - Zone 405,990,42,41,0.67,Low,Low
+N406,Darjeeling Hill Road - Zone 406,1551,56,57,0.5,Medium,Medium
+N407,Nilgiri Mountain Pass - Zone 407,1120,17,16,0.89,Medium,Low
+N408,Nainital Lake Hill Road - Zone 408,808,5,21,0.47,Medium,Low
+N409,Leh-Ladakh Cliff Route - Zone 409,975,43,42,0.71,Low,Low
+N410,Leh-Ladakh Cliff Route - Zone 410,1638,51,49,0.37,High,Medium
+N411,Western Ghats Cliff Route - Zone 411,1253,44,15,0.48,High,Low
+N412,Uttarakhand Valley Road - Zone 412,1713,20,45,0.84,Medium,Low
+N413,Kodaikanal Ghat Road - Zone 413,1558,33,19,0.87,Medium,Low
+N414,Sikkim Valley Road - Zone 414,1231,52,31,0.69,Medium,Low
+N415,Spiti Valley Cliff Road - Zone 415,1660,32,53,0.37,High,Medium
+N416,Nilgiri Mountain Pass - Zone 416,1376,62,38,0.69,Low,Medium
+N417,Kinnaur Mountain Highway - Zone 417,529,12,58,0.58,High,Low
+N418,Shimla Ridge Highway - Zone 418,1472,73,14,0.32,High,Medium
+N419,Tawang Mountain Route - Zone 419,538,31,50,0.61,Low,Low
+N420,Coorg Forest Hill Road - Zone 420,1212,12,34,0.29,Medium,Low
+N421,Tawang Mountain Route - Zone 421,1454,12,40,0.52,Medium,Low
+N422,Aravalli Hills Road - Zone 422,1110,37,57,0.2,Low,Medium
+N423,Kinnaur Mountain Highway - Zone 423,449,10,32,0.44,Low,Low
+N424,Spiti Valley Cliff Road - Zone 424,423,13,35,0.22,Medium,Low
+N425,Darjeeling Hill Road - Zone 425,577,58,28,0.89,Medium,Low
+N426,Tawang Mountain Route - Zone 426,1073,53,10,0.68,High,Low
+N427,Spiti Valley Cliff Road - Zone 427,572,49,12,0.32,High,Low
+N428,Ooty Hill Pass - Zone 428,1383,21,51,0.89,Low,Low
+N429,Aravalli Hills Road - Zone 429,911,64,48,0.7,Medium,Medium
+N430,Spiti Valley Cliff Road - Zone 430,1076,34,20,0.52,Low,Low
+N431,Leh-Ladakh Cliff Route - Zone 431,686,19,7,0.77,Medium,Low
+N432,Mussoorie Hill Road - Zone 432,332,35,18,0.25,High,Low
+N433,Himalayan Ridge Road - Zone 433,1214,11,20,0.72,Medium,Low
+N434,Tawang Mountain Route - Zone 434,779,74,18,0.73,Low,Medium
+N435,Sikkim Valley Road - Zone 435,1331,42,19,0.77,High,Low
+N436,Kinnaur Mountain Highway - Zone 436,953,46,20,0.41,Low,Low
+N437,Coorg Forest Hill Road - Zone 437,752,57,24,0.39,High,Medium
+N438,Kinnaur Mountain Highway - Zone 438,658,59,40,0.55,Medium,Medium
+N439,Ooty Hill Pass - Zone 439,1374,45,49,0.49,Low,Medium
+N440,Uttarakhand Valley Road - Zone 440,1070,28,53,0.58,Low,Low
+N441,Manali Mountain Road - Zone 441,915,23,56,0.52,Low,Low
+N442,Spiti Valley Cliff Road - Zone 442,1145,58,40,0.57,Medium,Medium
+N443,Manali Mountain Road - Zone 443,822,31,26,0.65,Medium,Low
+N444,Kodaikanal Ghat Road - Zone 444,489,73,51,0.78,Low,Medium
+N445,Leh-Ladakh Cliff Route - Zone 445,1072,10,60,0.25,High,Medium
+N446,Spiti Valley Cliff Road - Zone 446,744,66,18,0.81,Medium,Low
+N447,Uttarakhand Valley Road - Zone 447,331,32,17,0.87,Low,Low
+N448,Gangtok Ridge Road - Zone 448,796,31,30,0.84,High,Low
+N449,Nainital Lake Hill Road - Zone 449,879,53,34,0.57,Medium,Medium
+N450,Uttarakhand Valley Road - Zone 450,835,51,37,0.82,Medium,Low
+N451,Western Ghats Cliff Route - Zone 451,1779,65,53,0.79,Low,Medium
+N452,Kodaikanal Ghat Road - Zone 452,940,57,7,0.59,Low,Low
+N453,Sikkim Valley Road - Zone 453,333,38,40,0.85,High,Low
+N454,Munnar Tea Valley Road - Zone 454,904,24,17,0.43,Medium,Low
+N455,Kinnaur Mountain Highway - Zone 455,803,68,40,0.66,High,Medium
+N456,Nainital Lake Hill Road - Zone 456,827,67,51,0.65,Medium,Medium
+N457,Tawang Mountain Route - Zone 457,644,50,15,0.3,High,Medium
+N458,Gangtok Ridge Road - Zone 458,676,74,46,0.87,High,Medium
+N459,Himalayan Ridge Road - Zone 459,452,11,53,0.2,Low,Medium
+N460,Manali Mountain Road - Zone 460,439,24,5,0.35,Medium,Low
+N461,Kodaikanal Ghat Road - Zone 461,423,66,47,0.54,Low,Medium
+N462,Spiti Valley Cliff Road - Zone 462,1429,57,5,0.21,High,Medium
+N463,Leh-Ladakh Cliff Route - Zone 463,1397,41,6,0.55,High,Low
+N464,Munnar Tea Valley Road - Zone 464,667,18,11,0.57,Low,Low
+N465,Shimla Ridge Highway - Zone 465,1569,72,21,0.77,Medium,Medium
+N466,Ooty Hill Pass - Zone 466,461,52,30,0.52,Low,Medium
+N467,Manali Mountain Road - Zone 467,914,15,46,0.89,High,Low
+N468,Himalayan Ridge Road - Zone 468,491,56,29,0.46,Medium,Medium
+N469,Himalayan Ridge Road - Zone 469,1604,6,49,0.32,Medium,Low
+N470,Munnar Tea Valley Road - Zone 470,1620,47,41,0.88,Low,Low
+N471,Coorg Forest Hill Road - Zone 471,387,34,18,0.83,High,Low
+N472,Kinnaur Mountain Highway - Zone 472,1273,39,7,0.85,High,Low
+N473,Leh-Ladakh Cliff Route - Zone 473,1412,9,16,0.85,Medium,Low
+N474,Aravalli Hills Road - Zone 474,724,23,53,0.77,Medium,Low
+N475,Nilgiri Mountain Pass - Zone 475,912,25,41,0.37,Medium,Low
+N476,Spiti Valley Cliff Road - Zone 476,979,54,53,0.72,High,Medium
+N477,Nilgiri Mountain Pass - Zone 477,1325,49,8,0.27,Low,Low
+N478,Nilgiri Mountain Pass - Zone 478,997,55,54,0.43,High,Medium
+N479,Leh-Ladakh Cliff Route - Zone 479,1222,67,19,0.45,Medium,Medium
+N480,Munnar Tea Valley Road - Zone 480,680,53,10,0.74,Medium,Low
+N481,Manali Mountain Road - Zone 481,1760,14,10,0.39,Medium,Low
+N482,Sikkim Valley Road - Zone 482,1097,45,28,0.27,Low,Medium
+N483,Uttarakhand Valley Road - Zone 483,1210,51,53,0.39,Low,Medium
+N484,Nilgiri Mountain Pass - Zone 484,683,60,33,0.59,High,Medium
+N485,Munnar Tea Valley Road - Zone 485,511,8,10,0.45,Low,Low
+N486,Mussoorie Hill Road - Zone 486,1524,46,60,0.47,Medium,Medium
+N487,Munnar Tea Valley Road - Zone 487,1094,15,51,0.83,Low,Low
+N488,Kinnaur Mountain Highway - Zone 488,1367,26,48,0.47,Low,Low
+N489,Leh-Ladakh Cliff Route - Zone 489,916,39,36,0.3,Low,Medium
+N490,Munnar Tea Valley Road - Zone 490,865,58,24,0.54,Low,Medium
+N491,Kodaikanal Ghat Road - Zone 491,815,36,51,0.64,High,Medium
+N492,Mussoorie Hill Road - Zone 492,700,63,11,0.29,Low,Medium
+N493,Ooty Hill Pass - Zone 493,980,53,56,0.8,Medium,Medium
+N494,Nainital Lake Hill Road - Zone 494,1181,22,24,0.42,High,Low
+N495,Shimla Ridge Highway - Zone 495,1281,45,16,0.88,Medium,Low
+N496,Uttarakhand Valley Road - Zone 496,1723,67,41,0.75,Medium,Medium
+N497,Ooty Hill Pass - Zone 497,874,55,28,0.28,High,Medium
+N498,Shimla Ridge Highway - Zone 498,1512,74,16,0.68,High,Medium
+N499,Aravalli Hills Road - Zone 499,1789,64,50,0.35,Medium,Medium
+N500,Nilgiri Mountain Pass - Zone 500,1137,68,13,0.64,Low,Low
+N501,Leh-Ladakh Cliff Route - Zone 501,1648,24,50,0.5,Medium,Low
+N502,Nilgiri Mountain Pass - Zone 502,1219,66,42,0.48,High,Medium
+N503,Munnar Tea Valley Road - Zone 503,1413,9,55,0.88,High,Low
+N504,Spiti Valley Cliff Road - Zone 504,1516,15,11,0.74,High,Low
+N505,Kodaikanal Ghat Road - Zone 505,640,10,41,0.89,High,Low
+N506,Ooty Hill Pass - Zone 506,979,60,11,0.21,Medium,Medium
+N507,Manali Mountain Road - Zone 507,1345,71,40,0.61,High,Medium
+N508,Manali Mountain Road - Zone 508,1212,52,30,0.52,High,Medium
+N509,Kinnaur Mountain Highway - Zone 509,1714,69,14,0.44,Low,Medium
+N510,Gangtok Ridge Road - Zone 510,514,42,31,0.84,Low,Low
+N511,Western Ghats Cliff Route - Zone 511,1795,23,27,0.42,Medium,Low
+N512,Shimla Ridge Highway - Zone 512,1367,66,27,0.53,Medium,Medium
+N513,Tawang Mountain Route - Zone 513,953,13,24,0.23,High,Low
+N514,Western Ghats Cliff Route - Zone 514,346,48,46,0.28,Low,Medium
+N515,Manali Mountain Road - Zone 515,1356,27,40,0.31,High,Medium
+N516,Munnar Tea Valley Road - Zone 516,1246,34,56,0.48,Low,Medium
+N517,Darjeeling Hill Road - Zone 517,1611,60,30,0.22,High,Medium
+N518,Shimla Ridge Highway - Zone 518,1220,59,29,0.2,Low,Medium
+N519,Shimla Ridge Highway - Zone 519,870,13,41,0.27,High,Low
+N520,Darjeeling Hill Road - Zone 520,1049,46,17,0.52,Medium,Low
+N521,Gangtok Ridge Road - Zone 521,1380,45,43,0.47,Medium,Medium
+N522,Kinnaur Mountain Highway - Zone 522,533,49,27,0.79,High,Low
+N523,Darjeeling Hill Road - Zone 523,1679,43,44,0.61,High,Medium
+N524,Sikkim Valley Road - Zone 524,941,20,20,0.41,Low,Low
+N525,Kodaikanal Ghat Road - Zone 525,1720,23,37,0.47,High,Low
+N526,Sikkim Valley Road - Zone 526,1477,54,32,0.33,High,Medium
+N527,Spiti Valley Cliff Road - Zone 527,1720,27,40,0.32,Medium,Medium
+N528,Sikkim Valley Road - Zone 528,683,45,58,0.52,Low,Medium
+N529,Kodaikanal Ghat Road - Zone 529,319,67,13,0.34,Medium,Medium
+N530,Spiti Valley Cliff Road - Zone 530,1335,68,31,0.68,Medium,Medium
+N531,Tawang Mountain Route - Zone 531,1300,26,10,0.6,Low,Low
+N532,Uttarakhand Valley Road - Zone 532,366,40,19,0.58,Low,Low
+N533,Tawang Mountain Route - Zone 533,1458,68,40,0.56,High,Medium
+N534,Western Ghats Cliff Route - Zone 534,848,74,57,0.89,High,Medium
+N535,Himalayan Ridge Road - Zone 535,1772,61,39,0.35,Medium,Medium
+N536,Western Ghats Cliff Route - Zone 536,1638,36,24,0.81,Low,Low
+N537,Tawang Mountain Route - Zone 537,838,49,60,0.77,Medium,Medium
+N538,Western Ghats Cliff Route - Zone 538,785,31,56,0.72,High,Low
+N539,Kodaikanal Ghat Road - Zone 539,1755,59,15,0.63,Low,Low
+N540,Shimla Ridge Highway - Zone 540,421,49,39,0.4,High,Medium
+N541,Darjeeling Hill Road - Zone 541,962,42,23,0.6,High,Low
+N542,Western Ghats Cliff Route - Zone 542,577,57,8,0.89,High,Low
+N543,Sikkim Valley Road - Zone 543,1736,21,20,0.3,Medium,Low
+N544,Manali Mountain Road - Zone 544,1684,55,36,0.3,High,Medium
+N545,Leh-Ladakh Cliff Route - Zone 545,1585,58,29,0.52,High,Medium
+N546,Nilgiri Mountain Pass - Zone 546,1125,70,52,0.39,Medium,Medium
+N547,Tawang Mountain Route - Zone 547,1299,46,42,0.2,High,Medium
+N548,Nilgiri Mountain Pass - Zone 548,1796,63,45,0.66,Medium,Medium
+N549,Nilgiri Mountain Pass - Zone 549,1394,55,18,0.88,Low,Low
+N550,Gangtok Ridge Road - Zone 550,849,46,58,0.4,High,Medium
+N551,Kinnaur Mountain Highway - Zone 551,567,67,55,0.44,High,Medium
+N552,Himalayan Ridge Road - Zone 552,394,17,45,0.75,Medium,Low
+N553,Aravalli Hills Road - Zone 553,554,25,33,0.52,Medium,Low
+N554,Shimla Ridge Highway - Zone 554,1710,21,46,0.41,Medium,Low
+N555,Nilgiri Mountain Pass - Zone 555,1640,51,21,0.26,High,Medium
+N556,Darjeeling Hill Road - Zone 556,406,55,45,0.41,High,Medium
+N557,Manali Mountain Road - Zone 557,1179,16,50,0.27,Low,Medium
+N558,Gangtok Ridge Road - Zone 558,459,21,42,0.36,High,Low
+N559,Tawang Mountain Route - Zone 559,319,6,49,0.44,Low,Low
+N560,Munnar Tea Valley Road - Zone 560,1721,21,35,0.25,Medium,Low
+N561,Nilgiri Mountain Pass - Zone 561,1796,18,11,0.42,Medium,Low
+N562,Sikkim Valley Road - Zone 562,1083,22,46,0.9,Low,Low
+N563,Nilgiri Mountain Pass - Zone 563,1386,6,44,0.66,Medium,Low
+N564,Kodaikanal Ghat Road - Zone 564,1779,32,45,0.72,Medium,Low
+N565,Mussoorie Hill Road - Zone 565,1706,61,60,0.35,Low,Medium
+N566,Sikkim Valley Road - Zone 566,552,54,27,0.87,Medium,Low
+N567,Sikkim Valley Road - Zone 567,807,40,46,0.26,High,Medium
+N568,Mussoorie Hill Road - Zone 568,1528,41,54,0.86,Low,Low
+N569,Uttarakhand Valley Road - Zone 569,720,71,43,0.56,High,Medium
+N570,Ooty Hill Pass - Zone 570,905,11,55,0.83,Low,Low
+N571,Gangtok Ridge Road - Zone 571,1090,19,20,0.55,High,Low
+N572,Nilgiri Mountain Pass - Zone 572,1381,6,28,0.85,Low,Low
+N573,Ooty Hill Pass - Zone 573,1464,58,28,0.58,Low,Medium
+N574,Gangtok Ridge Road - Zone 574,449,7,42,0.25,Medium,Low
+N575,Shimla Ridge Highway - Zone 575,381,12,55,0.48,Medium,Low
+N576,Coorg Forest Hill Road - Zone 576,1150,59,49,0.48,High,Medium
+N577,Spiti Valley Cliff Road - Zone 577,1401,24,22,0.26,Low,Low
+N578,Coorg Forest Hill Road - Zone 578,716,24,39,0.43,High,Low
+N579,Nilgiri Mountain Pass - Zone 579,935,60,51,0.87,Low,Medium
+N580,Himalayan Ridge Road - Zone 580,800,16,32,0.28,High,Low
+N581,Mussoorie Hill Road - Zone 581,412,44,47,0.72,High,Medium
+N582,Darjeeling Hill Road - Zone 582,544,6,50,0.3,Low,Low
+N583,Darjeeling Hill Road - Zone 583,1316,49,38,0.56,High,Medium
+N584,Leh-Ladakh Cliff Route - Zone 584,641,52,13,0.72,Medium,Low
+N585,Western Ghats Cliff Route - Zone 585,360,47,56,0.5,High,Medium
+N586,Nilgiri Mountain Pass - Zone 586,838,14,36,0.52,Medium,Low
+N587,Himalayan Ridge Road - Zone 587,1323,26,28,0.31,Low,Low
+N588,Kinnaur Mountain Highway - Zone 588,1680,19,19,0.72,Low,Low
+N589,Himalayan Ridge Road - Zone 589,325,36,7,0.53,Medium,Low
+N590,Sikkim Valley Road - Zone 590,666,9,40,0.76,High,Low
+N591,Munnar Tea Valley Road - Zone 591,759,46,20,0.49,High,Low
+N592,Nainital Lake Hill Road - Zone 592,855,14,41,0.46,High,Low
+N593,Himalayan Ridge Road - Zone 593,667,33,56,0.56,Low,Medium
+N594,Ooty Hill Pass - Zone 594,441,64,60,0.4,Medium,Medium
+N595,Nainital Lake Hill Road - Zone 595,476,75,34,0.21,Low,Medium
+N596,Uttarakhand Valley Road - Zone 596,1454,43,52,0.64,Medium,Medium
+N597,Kodaikanal Ghat Road - Zone 597,1511,68,54,0.74,High,Medium
+N598,Spiti Valley Cliff Road - Zone 598,802,24,5,0.85,Low,Low
+N599,Manali Mountain Road - Zone 599,1409,49,45,0.79,Low,Low
+N600,Nainital Lake Hill Road - Zone 600,302,53,59,0.72,Medium,Medium
+N601,Western Ghats Cliff Route - Zone 601,720,72,20,0.49,Low,Medium
+N602,Sikkim Valley Road - Zone 602,1757,40,10,0.23,Low,Low
+N603,Coorg Forest Hill Road - Zone 603,1145,52,34,0.88,Low,Low
+N604,Kinnaur Mountain Highway - Zone 604,495,69,13,0.65,Medium,Medium
+N605,Nilgiri Mountain Pass - Zone 605,1512,12,32,0.66,Low,Low
+N606,Manali Mountain Road - Zone 606,897,38,59,0.42,Medium,Medium
+N607,Nainital Lake Hill Road - Zone 607,951,62,22,0.36,Low,Medium
+N608,Sikkim Valley Road - Zone 608,1497,18,14,0.27,Medium,Low
+N609,Tawang Mountain Route - Zone 609,943,57,12,0.58,Low,Low
+N610,Tawang Mountain Route - Zone 610,931,64,21,0.8,Low,Low
+N611,Darjeeling Hill Road - Zone 611,1705,43,57,0.69,High,Medium
+N612,Himalayan Ridge Road - Zone 612,740,46,14,0.26,Low,Medium
+N613,Kodaikanal Ghat Road - Zone 613,1111,70,8,0.67,Medium,Low
+N614,Darjeeling Hill Road - Zone 614,363,56,59,0.52,High,Medium
+N615,Spiti Valley Cliff Road - Zone 615,811,17,34,0.27,Low,Low
+N616,Western Ghats Cliff Route - Zone 616,324,12,58,0.75,Low,Low
+N617,Sikkim Valley Road - Zone 617,705,56,28,0.68,High,Low
+N618,Nilgiri Mountain Pass - Zone 618,1492,38,57,0.25,Low,Medium
+N619,Shimla Ridge Highway - Zone 619,1622,61,56,0.29,Medium,Medium
+N620,Western Ghats Cliff Route - Zone 620,387,64,8,0.32,High,Medium
+N621,Munnar Tea Valley Road - Zone 621,1783,55,36,0.22,High,Medium
+N622,Munnar Tea Valley Road - Zone 622,653,50,18,0.84,Medium,Low
+N623,Leh-Ladakh Cliff Route - Zone 623,1213,24,7,0.63,High,Low
+N624,Manali Mountain Road - Zone 624,1625,42,36,0.49,High,Medium
+N625,Gangtok Ridge Road - Zone 625,424,16,22,0.47,Medium,Low
+N626,Shimla Ridge Highway - Zone 626,1616,72,20,0.64,High,Medium
+N627,Aravalli Hills Road - Zone 627,1083,50,35,0.58,Medium,Medium
+N628,Kodaikanal Ghat Road - Zone 628,1458,69,25,0.47,Low,Medium
+N629,Aravalli Hills Road - Zone 629,953,33,6,0.83,Medium,Low
+N630,Himalayan Ridge Road - Zone 630,1266,72,27,0.74,Low,Medium
+N631,Darjeeling Hill Road - Zone 631,505,36,47,0.37,High,Medium
+N632,Himalayan Ridge Road - Zone 632,749,54,27,0.85,Low,Low
+N633,Darjeeling Hill Road - Zone 633,784,45,56,0.72,Medium,Medium
+N634,Kinnaur Mountain Highway - Zone 634,357,50,41,0.59,High,Medium
+N635,Shimla Ridge Highway - Zone 635,1308,74,24,0.32,Low,Medium
+N636,Nilgiri Mountain Pass - Zone 636,415,34,43,0.35,High,Medium
+N637,Gangtok Ridge Road - Zone 637,301,47,44,0.34,Low,Medium
+N638,Nainital Lake Hill Road - Zone 638,1768,27,56,0.79,Medium,Low
+N639,Himalayan Ridge Road - Zone 639,344,23,42,0.69,Low,Low
+N640,Western Ghats Cliff Route - Zone 640,1377,51,9,0.46,High,Low
+N641,Ooty Hill Pass - Zone 641,1500,17,26,0.41,Low,Low
+N642,Darjeeling Hill Road - Zone 642,1799,60,55,0.65,Medium,Medium
+N643,Nainital Lake Hill Road - Zone 643,656,50,19,0.67,Low,Low
+N644,Ooty Hill Pass - Zone 644,928,42,13,0.32,Low,Low
+N645,Kinnaur Mountain Highway - Zone 645,1101,9,16,0.62,High,Low
+N646,Manali Mountain Road - Zone 646,1609,18,36,0.3,High,Low
+N647,Nilgiri Mountain Pass - Zone 647,787,49,25,0.32,Low,Medium
+N648,Nainital Lake Hill Road - Zone 648,1214,6,21,0.35,High,Low
+N649,Nilgiri Mountain Pass - Zone 649,1017,37,55,0.28,Low,Medium
+N650,Himalayan Ridge Road - Zone 650,1090,61,51,0.49,Low,Medium
+N651,Munnar Tea Valley Road - Zone 651,1309,53,27,0.58,Low,Medium
+N652,Gangtok Ridge Road - Zone 652,1483,33,15,0.52,Low,Low
+N653,Uttarakhand Valley Road - Zone 653,341,45,21,0.87,Low,Low
+N654,Nainital Lake Hill Road - Zone 654,648,53,15,0.71,High,Low
+N655,Nilgiri Mountain Pass - Zone 655,992,66,50,0.22,High,Medium
+N656,Darjeeling Hill Road - Zone 656,1543,60,15,0.24,Medium,Medium
+N657,Shimla Ridge Highway - Zone 657,689,57,49,0.59,High,Medium
+N658,Spiti Valley Cliff Road - Zone 658,843,41,24,0.37,Low,Low
+N659,Ooty Hill Pass - Zone 659,1470,75,58,0.54,Low,Medium
+N660,Kodaikanal Ghat Road - Zone 660,307,59,10,0.41,High,Medium
+N661,Mussoorie Hill Road - Zone 661,1283,30,11,0.22,Low,Low
+N662,Uttarakhand Valley Road - Zone 662,467,65,59,0.28,Medium,Medium
+N663,Gangtok Ridge Road - Zone 663,1301,38,10,0.65,Medium,Low
+N664,Darjeeling Hill Road - Zone 664,1059,53,28,0.33,Low,Medium
+N665,Leh-Ladakh Cliff Route - Zone 665,1200,64,21,0.36,Medium,Medium
+N666,Kinnaur Mountain Highway - Zone 666,426,24,53,0.69,Low,Low
+N667,Nilgiri Mountain Pass - Zone 667,1668,49,56,0.58,High,Medium
+N668,Manali Mountain Road - Zone 668,1433,12,58,0.47,High,Low
+N669,Munnar Tea Valley Road - Zone 669,1396,65,41,0.82,Medium,Medium
+N670,Uttarakhand Valley Road - Zone 670,461,55,59,0.7,High,Medium
+N671,Kinnaur Mountain Highway - Zone 671,1358,23,12,0.86,Medium,Low
+N672,Darjeeling Hill Road - Zone 672,642,32,56,0.33,Low,Medium
+N673,Munnar Tea Valley Road - Zone 673,460,60,17,0.9,High,Low
+N674,Sikkim Valley Road - Zone 674,1518,38,25,0.84,Low,Low
+N675,Nilgiri Mountain Pass - Zone 675,1094,55,40,0.43,Medium,Medium
+N676,Coorg Forest Hill Road - Zone 676,1238,6,55,0.69,High,Low
+N677,Coorg Forest Hill Road - Zone 677,1159,19,31,0.3,High,Low
+N678,Kinnaur Mountain Highway - Zone 678,1493,17,11,0.59,Low,Low
+N679,Uttarakhand Valley Road - Zone 679,1396,49,31,0.38,High,Medium
+N680,Gangtok Ridge Road - Zone 680,1471,65,7,0.32,Medium,Medium
+N681,Sikkim Valley Road - Zone 681,1566,56,7,0.48,Medium,Low
+N682,Manali Mountain Road - Zone 682,400,65,22,0.83,Low,Low
+N683,Nainital Lake Hill Road - Zone 683,920,44,22,0.79,High,Low
+N684,Western Ghats Cliff Route - Zone 684,766,22,24,0.88,Medium,Low
+N685,Nainital Lake Hill Road - Zone 685,851,58,43,0.65,Low,Medium
+N686,Tawang Mountain Route - Zone 686,732,57,52,0.54,High,Medium
+N687,Kodaikanal Ghat Road - Zone 687,415,70,55,0.31,Medium,Medium
+N688,Coorg Forest Hill Road - Zone 688,1126,22,54,0.8,High,Low
+N689,Aravalli Hills Road - Zone 689,655,29,58,0.34,Low,Medium
+N690,Manali Mountain Road - Zone 690,367,63,8,0.84,High,Low
+N691,Shimla Ridge Highway - Zone 691,861,52,57,0.52,Medium,Medium
+N692,Western Ghats Cliff Route - Zone 692,1695,8,20,0.46,High,Low
+N693,Tawang Mountain Route - Zone 693,663,65,42,0.59,Medium,Medium
+N694,Darjeeling Hill Road - Zone 694,829,16,23,0.22,Low,Low
+N695,Darjeeling Hill Road - Zone 695,1471,32,59,0.35,Low,Medium
+N696,Shimla Ridge Highway - Zone 696,851,57,37,0.21,High,Medium
+N697,Aravalli Hills Road - Zone 697,1270,21,46,0.32,Low,Low
+N698,Manali Mountain Road - Zone 698,816,44,50,0.88,High,Low
+N699,Leh-Ladakh Cliff Route - Zone 699,1167,53,59,0.44,Medium,Medium
+N700,Shimla Ridge Highway - Zone 700,1255,43,48,0.56,High,Medium
+N701,Ooty Hill Pass - Zone 701,1497,18,5,0.56,High,Low
+N702,Kodaikanal Ghat Road - Zone 702,1449,41,24,0.68,Medium,Low
+N703,Nilgiri Mountain Pass - Zone 703,988,40,45,0.43,Medium,Medium
+N704,Leh-Ladakh Cliff Route - Zone 704,1643,43,17,0.3,Low,Low
+N705,Himalayan Ridge Road - Zone 705,1528,56,47,0.42,Low,Medium
+N706,Aravalli Hills Road - Zone 706,1642,68,23,0.38,Medium,Medium
+N707,Ooty Hill Pass - Zone 707,1095,9,42,0.7,High,Low
+N708,Shimla Ridge Highway - Zone 708,1002,33,48,0.57,Medium,Low
+N709,Kodaikanal Ghat Road - Zone 709,1338,43,59,0.32,High,Medium
+N710,Spiti Valley Cliff Road - Zone 710,670,42,11,0.53,High,Low
+N711,Leh-Ladakh Cliff Route - Zone 711,1785,28,48,0.83,High,Low
+N712,Nilgiri Mountain Pass - Zone 712,755,50,19,0.72,Medium,Low
+N713,Munnar Tea Valley Road - Zone 713,978,52,21,0.61,Medium,Low
+N714,Western Ghats Cliff Route - Zone 714,1263,11,60,0.64,High,Low
+N715,Mussoorie Hill Road - Zone 715,445,65,17,0.55,High,Medium
+N716,Ooty Hill Pass - Zone 716,1385,43,31,0.24,Low,Medium
+N717,Sikkim Valley Road - Zone 717,710,48,31,0.89,Medium,Low
+N718,Sikkim Valley Road - Zone 718,947,28,54,0.26,Medium,Medium
+N719,Darjeeling Hill Road - Zone 719,941,12,5,0.52,Low,Low
+N720,Darjeeling Hill Road - Zone 720,1480,25,36,0.75,Low,Low
+N721,Sikkim Valley Road - Zone 721,1558,60,45,0.5,Medium,Medium
+N722,Gangtok Ridge Road - Zone 722,1085,5,7,0.57,High,Low
+N723,Kodaikanal Ghat Road - Zone 723,328,46,53,0.78,Low,Medium
+N724,Aravalli Hills Road - Zone 724,1685,5,45,0.71,Low,Low
+N725,Kodaikanal Ghat Road - Zone 725,939,21,11,0.47,High,Low
+N726,Uttarakhand Valley Road - Zone 726,642,13,57,0.23,Medium,Medium
+N727,Tawang Mountain Route - Zone 727,1790,71,43,0.57,Medium,Medium
+N728,Sikkim Valley Road - Zone 728,1001,67,27,0.73,Low,Medium
+N729,Ooty Hill Pass - Zone 729,339,34,19,0.71,Low,Low
+N730,Shimla Ridge Highway - Zone 730,344,69,15,0.29,High,Medium
+N731,Himalayan Ridge Road - Zone 731,1068,37,54,0.57,Low,Medium
+N732,Mussoorie Hill Road - Zone 732,398,18,46,0.79,Low,Low
+N733,Western Ghats Cliff Route - Zone 733,1153,61,29,0.29,Medium,Medium
+N734,Gangtok Ridge Road - Zone 734,1737,24,18,0.69,High,Low
+N735,Aravalli Hills Road - Zone 735,916,58,47,0.27,High,Medium
+N736,Leh-Ladakh Cliff Route - Zone 736,1575,22,31,0.78,Low,Low
+N737,Coorg Forest Hill Road - Zone 737,1772,20,23,0.28,Low,Low
+N738,Gangtok Ridge Road - Zone 738,706,30,54,0.38,High,Medium
+N739,Shimla Ridge Highway - Zone 739,1033,57,23,0.31,High,Medium
+N740,Gangtok Ridge Road - Zone 740,725,66,26,0.36,Low,Medium
+N741,Nilgiri Mountain Pass - Zone 741,526,68,14,0.86,High,Low
+N742,Nilgiri Mountain Pass - Zone 742,1781,17,21,0.65,Medium,Low
+N743,Uttarakhand Valley Road - Zone 743,840,64,8,0.27,Low,Medium
+N744,Himalayan Ridge Road - Zone 744,895,51,56,0.67,Medium,Medium
+N745,Western Ghats Cliff Route - Zone 745,494,10,5,0.8,High,Low
+N746,Darjeeling Hill Road - Zone 746,973,50,33,0.87,Medium,Low
+N747,Nilgiri Mountain Pass - Zone 747,1063,48,16,0.28,Medium,Medium
+N748,Tawang Mountain Route - Zone 748,856,54,49,0.8,Medium,Medium
+N749,Darjeeling Hill Road - Zone 749,531,21,49,0.71,Low,Low
+N750,Western Ghats Cliff Route - Zone 750,1152,66,56,0.6,Medium,Medium
+N751,Darjeeling Hill Road - Zone 751,1551,53,54,0.45,Low,Medium
+N752,Sikkim Valley Road - Zone 752,1289,67,12,0.82,Medium,Low
+N753,Himalayan Ridge Road - Zone 753,429,38,46,0.42,High,Medium
+N754,Coorg Forest Hill Road - Zone 754,1480,33,47,0.81,High,Low
+N755,Coorg Forest Hill Road - Zone 755,1709,17,32,0.66,Low,Low
+N756,Gangtok Ridge Road - Zone 756,1008,54,14,0.79,High,Low
+N757,Mussoorie Hill Road - Zone 757,411,6,46,0.85,High,Low
+N758,Gangtok Ridge Road - Zone 758,1315,26,9,0.73,Medium,Low
+N759,Manali Mountain Road - Zone 759,977,40,8,0.55,High,Low
+N760,Ooty Hill Pass - Zone 760,1125,35,10,0.52,High,Low
+N761,Tawang Mountain Route - Zone 761,480,68,33,0.42,Medium,Medium
+N762,Aravalli Hills Road - Zone 762,510,56,31,0.23,High,Medium
+N763,Aravalli Hills Road - Zone 763,486,43,37,0.59,High,Low
+N764,Tawang Mountain Route - Zone 764,998,51,57,0.24,Low,Medium
+N765,Tawang Mountain Route - Zone 765,979,65,50,0.66,High,Medium
+N766,Tawang Mountain Route - Zone 766,533,17,53,0.66,Low,Low
+N767,Nainital Lake Hill Road - Zone 767,1027,42,40,0.57,High,Medium
+N768,Western Ghats Cliff Route - Zone 768,393,26,36,0.3,High,Low
+N769,Munnar Tea Valley Road - Zone 769,519,37,44,0.34,Low,Medium
+N770,Ooty Hill Pass - Zone 770,741,63,57,0.75,High,Medium
+N771,Nainital Lake Hill Road - Zone 771,520,58,7,0.85,High,Low
+N772,Kinnaur Mountain Highway - Zone 772,552,62,34,0.66,High,Medium
+N773,Sikkim Valley Road - Zone 773,1321,5,38,0.72,High,Low
+N774,Munnar Tea Valley Road - Zone 774,1498,66,37,0.75,Low,Medium
+N775,Kinnaur Mountain Highway - Zone 775,655,21,11,0.47,High,Low
+N776,Mussoorie Hill Road - Zone 776,959,69,29,0.49,High,Medium
+N777,Manali Mountain Road - Zone 777,860,55,26,0.88,Medium,Low
+N778,Sikkim Valley Road - Zone 778,582,57,43,0.69,High,Medium
+N779,Coorg Forest Hill Road - Zone 779,912,75,60,0.42,High,Medium
+N780,Spiti Valley Cliff Road - Zone 780,1595,32,17,0.35,High,Low
+N781,Uttarakhand Valley Road - Zone 781,1706,49,48,0.29,High,Medium
+N782,Darjeeling Hill Road - Zone 782,1331,74,49,0.65,High,Medium
+N783,Western Ghats Cliff Route - Zone 783,1021,66,42,0.6,High,Medium
+N784,Munnar Tea Valley Road - Zone 784,1680,73,23,0.81,Medium,Medium
+N785,Aravalli Hills Road - Zone 785,1370,18,6,0.47,Low,Low
+N786,Himalayan Ridge Road - Zone 786,709,39,53,0.75,Medium,Low
+N787,Leh-Ladakh Cliff Route - Zone 787,599,12,49,0.75,Low,Low
+N788,Spiti Valley Cliff Road - Zone 788,366,50,57,0.52,High,Medium
+N789,Spiti Valley Cliff Road - Zone 789,759,54,20,0.56,High,Low
+N790,Uttarakhand Valley Road - Zone 790,1719,11,29,0.47,High,Low
+N791,Nainital Lake Hill Road - Zone 791,1430,11,5,0.72,Low,Low
+N792,Mussoorie Hill Road - Zone 792,1207,33,45,0.69,High,Low
+N793,Kodaikanal Ghat Road - Zone 793,1505,74,52,0.62,High,Medium
+N794,Shimla Ridge Highway - Zone 794,902,62,16,0.89,Low,Low
+N795,Darjeeling Hill Road - Zone 795,655,70,12,0.46,Medium,Medium
+N796,Leh-Ladakh Cliff Route - Zone 796,1439,38,13,0.31,Medium,Low
+N797,Aravalli Hills Road - Zone 797,976,64,50,0.86,Low,Medium
+N798,Sikkim Valley Road - Zone 798,960,11,54,0.85,High,Low
+N799,Uttarakhand Valley Road - Zone 799,1304,75,27,0.25,High,Medium
+N800,Nainital Lake Hill Road - Zone 800,1376,33,16,0.56,High,Low
+N801,Darjeeling Hill Road - Zone 801,1151,74,39,0.48,Medium,Medium
+N802,Manali Mountain Road - Zone 802,736,47,26,0.45,Low,Medium
+N803,Mussoorie Hill Road - Zone 803,1386,65,40,0.78,High,Medium
+N804,Aravalli Hills Road - Zone 804,534,49,33,0.37,High,Medium
+N805,Mussoorie Hill Road - Zone 805,1572,36,7,0.68,Medium,Low
+N806,Ooty Hill Pass - Zone 806,532,54,21,0.58,Medium,Low
+N807,Aravalli Hills Road - Zone 807,1358,52,37,0.76,Medium,Low
+N808,Gangtok Ridge Road - Zone 808,389,42,46,0.33,High,Medium
+N809,Nilgiri Mountain Pass - Zone 809,496,26,54,0.58,Low,Low
+N810,Nilgiri Mountain Pass - Zone 810,731,32,60,0.68,Low,Medium
+N811,Shimla Ridge Highway - Zone 811,1401,60,46,0.77,Low,Medium
+N812,Sikkim Valley Road - Zone 812,348,63,50,0.43,Low,Medium
+N813,Nilgiri Mountain Pass - Zone 813,411,27,55,0.38,Low,Medium
+N814,Kinnaur Mountain Highway - Zone 814,766,38,31,0.47,High,Low
+N815,Ooty Hill Pass - Zone 815,1186,45,6,0.47,Low,Low
+N816,Spiti Valley Cliff Road - Zone 816,312,13,53,0.72,Low,Low
+N817,Nilgiri Mountain Pass - Zone 817,1032,69,11,0.4,High,Medium
+N818,Uttarakhand Valley Road - Zone 818,1542,16,23,0.74,Medium,Low
+N819,Ooty Hill Pass - Zone 819,1109,8,35,0.31,Low,Low
+N820,Sikkim Valley Road - Zone 820,1100,74,23,0.87,Low,Medium
+N821,Uttarakhand Valley Road - Zone 821,1687,52,5,0.59,High,Low
+N822,Sikkim Valley Road - Zone 822,552,10,5,0.6,Medium,Low
+N823,Spiti Valley Cliff Road - Zone 823,1421,15,24,0.35,High,Low
+N824,Kodaikanal Ghat Road - Zone 824,733,57,46,0.8,Low,Medium
+N825,Darjeeling Hill Road - Zone 825,676,33,44,0.78,Low,Low
+N826,Western Ghats Cliff Route - Zone 826,671,11,59,0.73,High,Low
+N827,Tawang Mountain Route - Zone 827,1620,75,9,0.4,Low,Medium
+N828,Leh-Ladakh Cliff Route - Zone 828,501,30,51,0.61,Medium,Low
+N829,Kodaikanal Ghat Road - Zone 829,562,35,11,0.4,Low,Low
+N830,Shimla Ridge Highway - Zone 830,950,67,33,0.43,High,Medium
+N831,Uttarakhand Valley Road - Zone 831,1720,24,41,0.6,Medium,Low
+N832,Munnar Tea Valley Road - Zone 832,645,5,25,0.37,Low,Low
+N833,Munnar Tea Valley Road - Zone 833,866,51,13,0.68,Medium,Low
+N834,Gangtok Ridge Road - Zone 834,1247,62,27,0.74,Medium,Low
+N835,Spiti Valley Cliff Road - Zone 835,522,27,46,0.62,Medium,Low
+N836,Sikkim Valley Road - Zone 836,1403,30,21,0.71,High,Low
+N837,Nilgiri Mountain Pass - Zone 837,1789,14,6,0.79,High,Low
+N838,Aravalli Hills Road - Zone 838,1491,56,54,0.61,Low,Medium
+N839,Spiti Valley Cliff Road - Zone 839,833,74,39,0.53,Low,Medium
+N840,Kodaikanal Ghat Road - Zone 840,1103,33,54,0.61,Medium,Medium
+N841,Sikkim Valley Road - Zone 841,1251,69,37,0.26,Medium,Medium
+N842,Coorg Forest Hill Road - Zone 842,321,35,59,0.87,High,Low
+N843,Darjeeling Hill Road - Zone 843,1352,22,33,0.31,High,Low
+N844,Kinnaur Mountain Highway - Zone 844,1650,23,52,0.71,Medium,Low
+N845,Himalayan Ridge Road - Zone 845,748,67,19,0.24,Medium,Medium
+N846,Manali Mountain Road - Zone 846,387,31,38,0.84,Medium,Low
+N847,Ooty Hill Pass - Zone 847,1261,63,7,0.23,High,Medium
+N848,Nainital Lake Hill Road - Zone 848,511,71,45,0.78,High,Medium
+N849,Leh-Ladakh Cliff Route - Zone 849,1485,74,41,0.32,High,Medium
+N850,Ooty Hill Pass - Zone 850,1048,14,38,0.38,Low,Low
+N851,Coorg Forest Hill Road - Zone 851,1131,50,57,0.81,Medium,Medium
+N852,Gangtok Ridge Road - Zone 852,1537,5,37,0.82,Medium,Low
+N853,Darjeeling Hill Road - Zone 853,771,14,37,0.65,Low,Low
+N854,Sikkim Valley Road - Zone 854,682,25,28,0.62,Low,Low
+N855,Manali Mountain Road - Zone 855,1149,47,51,0.28,High,Medium
+N856,Gangtok Ridge Road - Zone 856,1281,31,42,0.31,Medium,Medium
+N857,Aravalli Hills Road - Zone 857,799,10,13,0.6,Low,Low
+N858,Sikkim Valley Road - Zone 858,1589,70,7,0.82,Low,Low
+N859,Himalayan Ridge Road - Zone 859,640,38,16,0.56,Medium,Low
+N860,Mussoorie Hill Road - Zone 860,1454,7,51,0.71,Medium,Low
+N861,Nilgiri Mountain Pass - Zone 861,743,62,43,0.89,Medium,Medium
+N862,Darjeeling Hill Road - Zone 862,749,57,43,0.3,High,Medium
+N863,Darjeeling Hill Road - Zone 863,1576,70,21,0.32,High,Medium
+N864,Nainital Lake Hill Road - Zone 864,1228,13,19,0.46,Low,Low
+N865,Western Ghats Cliff Route - Zone 865,333,30,38,0.8,High,Low
+N866,Munnar Tea Valley Road - Zone 866,606,17,16,0.53,High,Low
+N867,Mussoorie Hill Road - Zone 867,379,73,37,0.73,Low,Medium
+N868,Gangtok Ridge Road - Zone 868,1650,21,43,0.58,Low,Low
+N869,Munnar Tea Valley Road - Zone 869,1369,58,28,0.81,High,Low
+N870,Coorg Forest Hill Road - Zone 870,1178,34,56,0.54,Medium,Medium
+N871,Kodaikanal Ghat Road - Zone 871,1506,17,32,0.29,Medium,Low
+N872,Manali Mountain Road - Zone 872,471,41,43,0.81,Medium,Low
+N873,Leh-Ladakh Cliff Route - Zone 873,687,5,50,0.72,Low,Low
+N874,Kinnaur Mountain Highway - Zone 874,1370,20,38,0.21,High,Low
+N875,Shimla Ridge Highway - Zone 875,1708,45,31,0.45,Low,Medium
+N876,Munnar Tea Valley Road - Zone 876,1634,37,21,0.8,Medium,Low
+N877,Kinnaur Mountain Highway - Zone 877,1048,40,48,0.48,Low,Medium
+N878,Munnar Tea Valley Road - Zone 878,1430,66,16,0.46,High,Medium
+N879,Gangtok Ridge Road - Zone 879,819,44,41,0.44,High,Medium
+N880,Ooty Hill Pass - Zone 880,582,20,52,0.36,High,Medium
+N881,Darjeeling Hill Road - Zone 881,505,32,37,0.48,Medium,Low
+N882,Spiti Valley Cliff Road - Zone 882,1557,11,15,0.47,High,Low
+N883,Aravalli Hills Road - Zone 883,486,23,35,0.85,Medium,Low
+N884,Nilgiri Mountain Pass - Zone 884,431,38,19,0.46,High,Low
+N885,Himalayan Ridge Road - Zone 885,1783,54,30,0.63,High,Medium
+N886,Uttarakhand Valley Road - Zone 886,1757,12,54,0.77,High,Low
+N887,Gangtok Ridge Road - Zone 887,1199,6,17,0.8,High,Low
+N888,Uttarakhand Valley Road - Zone 888,698,9,55,0.62,High,Low
+N889,Manali Mountain Road - Zone 889,1559,26,48,0.23,Low,Medium
+N890,Aravalli Hills Road - Zone 890,622,16,22,0.75,Medium,Low
+N891,Ooty Hill Pass - Zone 891,1130,30,38,0.21,High,Medium
+N892,Nilgiri Mountain Pass - Zone 892,484,75,23,0.71,High,Medium
+N893,Kinnaur Mountain Highway - Zone 893,1012,49,57,0.39,High,Medium
+N894,Shimla Ridge Highway - Zone 894,1231,56,41,0.2,Low,Medium
+N895,Munnar Tea Valley Road - Zone 895,1336,18,40,0.25,Medium,Low
+N896,Nainital Lake Hill Road - Zone 896,539,70,21,0.81,High,Low
+N897,Leh-Ladakh Cliff Route - Zone 897,1721,61,29,0.59,Low,Medium
+N898,Nainital Lake Hill Road - Zone 898,1239,63,42,0.8,Medium,Medium
+N899,Western Ghats Cliff Route - Zone 899,828,13,29,0.64,Low,Low
+N900,Manali Mountain Road - Zone 900,946,57,27,0.56,Low,Medium
+N901,Leh-Ladakh Cliff Route - Zone 901,808,41,10,0.48,High,Low
+N902,Nainital Lake Hill Road - Zone 902,455,75,16,0.53,Medium,Medium
+N903,Shimla Ridge Highway - Zone 903,1474,39,16,0.86,High,Low
+N904,Shimla Ridge Highway - Zone 904,1321,30,20,0.71,Medium,Low
+N905,Shimla Ridge Highway - Zone 905,769,30,58,0.37,High,Medium
+N906,Kodaikanal Ghat Road - Zone 906,619,18,12,0.84,High,Low
+N907,Gangtok Ridge Road - Zone 907,1557,5,53,0.8,Low,Low
+N908,Gangtok Ridge Road - Zone 908,1060,45,36,0.83,High,Low
+N909,Leh-Ladakh Cliff Route - Zone 909,1305,28,53,0.84,Medium,Low
+N910,Ooty Hill Pass - Zone 910,754,21,8,0.57,Medium,Low
+N911,Gangtok Ridge Road - Zone 911,1407,9,37,0.44,High,Low
+N912,Darjeeling Hill Road - Zone 912,1236,20,49,0.56,Medium,Low
+N913,Aravalli Hills Road - Zone 913,324,31,29,0.61,Medium,Low
+N914,Kodaikanal Ghat Road - Zone 914,1554,38,16,0.58,Low,Low
+N915,Leh-Ladakh Cliff Route - Zone 915,1265,48,28,0.33,Medium,Medium
+N916,Shimla Ridge Highway - Zone 916,1158,52,28,0.8,Medium,Low
+N917,Tawang Mountain Route - Zone 917,668,21,41,0.68,Low,Low
+N918,Leh-Ladakh Cliff Route - Zone 918,782,60,59,0.47,Low,Medium
+N919,Sikkim Valley Road - Zone 919,1268,6,16,0.5,Low,Low
+N920,Coorg Forest Hill Road - Zone 920,1393,45,55,0.54,Medium,Medium
+N921,Spiti Valley Cliff Road - Zone 921,1462,11,30,0.27,Low,Low
+N922,Himalayan Ridge Road - Zone 922,741,37,35,0.79,Low,Low
+N923,Tawang Mountain Route - Zone 923,985,38,28,0.45,High,Low
+N924,Leh-Ladakh Cliff Route - Zone 924,1004,7,31,0.28,High,Low
+N925,Mussoorie Hill Road - Zone 925,707,73,16,0.89,Medium,Low
+N926,Kodaikanal Ghat Road - Zone 926,965,70,36,0.74,Medium,Medium
+N927,Nilgiri Mountain Pass - Zone 927,1080,41,34,0.64,Low,Low
+N928,Darjeeling Hill Road - Zone 928,1611,48,31,0.64,High,Low
+N929,Ooty Hill Pass - Zone 929,446,15,15,0.44,Medium,Low
+N930,Nainital Lake Hill Road - Zone 930,1637,42,50,0.39,High,Medium
+N931,Ooty Hill Pass - Zone 931,855,61,54,0.8,Medium,Medium
+N932,Kinnaur Mountain Highway - Zone 932,1366,62,31,0.32,Low,Medium
+N933,Sikkim Valley Road - Zone 933,1790,35,47,0.38,High,Medium
+N934,Nilgiri Mountain Pass - Zone 934,731,26,30,0.27,Low,Low
+N935,Gangtok Ridge Road - Zone 935,1423,11,6,0.74,High,Low
+N936,Nilgiri Mountain Pass - Zone 936,512,38,44,0.31,High,Medium
+N937,Ooty Hill Pass - Zone 937,933,34,20,0.72,Medium,Low
+N938,Sikkim Valley Road - Zone 938,568,72,58,0.32,Low,Medium
+N939,Kodaikanal Ghat Road - Zone 939,966,65,34,0.88,High,Medium
+N940,Leh-Ladakh Cliff Route - Zone 940,1423,61,13,0.88,High,Low
+N941,Spiti Valley Cliff Road - Zone 941,662,63,45,0.72,High,Medium
+N942,Munnar Tea Valley Road - Zone 942,1372,73,24,0.84,Medium,Medium
+N943,Spiti Valley Cliff Road - Zone 943,765,16,33,0.42,Medium,Low
+N944,Leh-Ladakh Cliff Route - Zone 944,618,43,5,0.2,Low,Low
+N945,Kodaikanal Ghat Road - Zone 945,887,65,39,0.21,Medium,Medium
+N946,Gangtok Ridge Road - Zone 946,913,6,54,0.5,Medium,Low
+N947,Mussoorie Hill Road - Zone 947,773,5,40,0.46,Medium,Low
+N948,Spiti Valley Cliff Road - Zone 948,1195,55,20,0.31,High,Medium
+N949,Ooty Hill Pass - Zone 949,1074,33,21,0.26,High,Low
+N950,Manali Mountain Road - Zone 950,1358,39,23,0.65,High,Low
+N951,Leh-Ladakh Cliff Route - Zone 951,1145,29,59,0.25,Low,Medium
+N952,Uttarakhand Valley Road - Zone 952,526,63,44,0.52,High,Medium
+N953,Mussoorie Hill Road - Zone 953,1307,29,25,0.21,Low,Low
+N954,Spiti Valley Cliff Road - Zone 954,345,28,11,0.4,Low,Low
+N955,Tawang Mountain Route - Zone 955,1789,6,19,0.26,Low,Low
+N956,Gangtok Ridge Road - Zone 956,744,48,31,0.42,Medium,Medium
+N957,Kodaikanal Ghat Road - Zone 957,1249,9,26,0.26,Low,Low
+N958,Himalayan Ridge Road - Zone 958,845,55,9,0.58,Low,Low
+N959,Shimla Ridge Highway - Zone 959,812,53,58,0.21,High,Medium
+N960,Manali Mountain Road - Zone 960,1088,61,20,0.72,Low,Low
+N961,Shimla Ridge Highway - Zone 961,1243,17,38,0.67,Low,Low
+N962,Gangtok Ridge Road - Zone 962,1096,44,25,0.31,High,Medium
+N963,Himalayan Ridge Road - Zone 963,1425,71,12,0.38,High,Medium
+N964,Uttarakhand Valley Road - Zone 964,706,51,8,0.8,Low,Low
+N965,Western Ghats Cliff Route - Zone 965,783,60,25,0.21,Medium,Medium
+N966,Kinnaur Mountain Highway - Zone 966,545,55,55,0.37,Low,Medium
+N967,Kinnaur Mountain Highway - Zone 967,1714,65,49,0.62,Medium,Medium
+N968,Nilgiri Mountain Pass - Zone 968,809,25,36,0.26,High,Low
+N969,Nainital Lake Hill Road - Zone 969,1580,12,8,0.45,Low,Low
+N970,Spiti Valley Cliff Road - Zone 970,519,21,36,0.36,High,Low
+N971,Kodaikanal Ghat Road - Zone 971,1198,29,6,0.68,Medium,Low
+N972,Sikkim Valley Road - Zone 972,813,10,36,0.69,High,Low
+N973,Uttarakhand Valley Road - Zone 973,1411,67,17,0.6,High,Medium
+N974,Kodaikanal Ghat Road - Zone 974,962,64,22,0.81,High,Low
+N975,Spiti Valley Cliff Road - Zone 975,628,13,38,0.31,Medium,Low
+N976,Leh-Ladakh Cliff Route - Zone 976,1409,51,34,0.2,High,Medium
+N977,Coorg Forest Hill Road - Zone 977,1076,28,6,0.63,Medium,Low
+N978,Mussoorie Hill Road - Zone 978,789,46,51,0.24,High,Medium
+N979,Ooty Hill Pass - Zone 979,688,72,48,0.55,High,Medium
+N980,Sikkim Valley Road - Zone 980,1555,41,25,0.49,Medium,Low
+N981,Western Ghats Cliff Route - Zone 981,497,71,47,0.25,Low,Medium
+N982,Darjeeling Hill Road - Zone 982,364,30,11,0.54,Low,Low
+N983,Himalayan Ridge Road - Zone 983,1469,54,47,0.54,High,Medium
+N984,Kinnaur Mountain Highway - Zone 984,824,11,28,0.35,High,Low
+N985,Nilgiri Mountain Pass - Zone 985,326,31,46,0.54,Low,Low
+N986,Tawang Mountain Route - Zone 986,1608,12,28,0.59,Medium,Low
+N987,Kodaikanal Ghat Road - Zone 987,1750,12,57,0.63,High,Low
+N988,Himalayan Ridge Road - Zone 988,444,43,9,0.86,High,Low
+N989,Western Ghats Cliff Route - Zone 989,507,34,39,0.47,Low,Low
+N990,Coorg Forest Hill Road - Zone 990,1645,36,41,0.64,Low,Low
+N991,Spiti Valley Cliff Road - Zone 991,1443,58,52,0.27,High,Medium
+N992,Kinnaur Mountain Highway - Zone 992,1033,63,49,0.67,Low,Medium
+N993,Darjeeling Hill Road - Zone 993,669,75,30,0.55,High,Medium
+N994,Darjeeling Hill Road - Zone 994,1393,61,27,0.83,High,Low
+N995,Nainital Lake Hill Road - Zone 995,1061,57,53,0.64,High,Medium
+N996,Nainital Lake Hill Road - Zone 996,1546,35,41,0.58,Medium,Low
+N997,Spiti Valley Cliff Road - Zone 997,820,51,33,0.51,Medium,Medium
+N998,Aravalli Hills Road - Zone 998,1787,9,23,0.62,High,Low
+N999,Sikkim Valley Road - Zone 999,918,5,24,0.89,Low,Low
+N1000,Nainital Lake Hill Road - Zone 1000,344,40,40,0.56,High,Low
